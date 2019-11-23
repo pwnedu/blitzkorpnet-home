@@ -1,4 +1,4 @@
 # blitzkorpnet-home
-blitzkorp-site
+blitzkorpnet-site
 
 simple site redirect in js
